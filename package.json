@@ -52,7 +52,9 @@
     "react-hook-form": "7.45.4",
     "sharp": "0.32.6",
     "tailwind-merge": "^2.3.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "libsql": "^0.4.6",
+    "@libsql/client": "^0.14.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
